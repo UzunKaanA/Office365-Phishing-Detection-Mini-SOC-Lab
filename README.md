@@ -66,10 +66,6 @@ Birden fazla phishing girişimi sonrası SIEM:
 ✔ Severity: Medium
 ✔ Risk Score: 47
 
-📌 Ekran Görüntüsü:
-
-Alerts → “Office365 Phishing Multiple Login Attempts”
-
 Geliştirilebilir Özellikler
 | Özellik                      | Katma Değer                               |
 | ---------------------------- | ----------------------------------------- |
@@ -78,7 +74,29 @@ Geliştirilebilir Özellikler
 | Dashboard                    | Görsel izleme kolaylığı                   |
 | Credential kullanım kontrolü | Oltalama sonrası lateral movement analizi |
 
+## 📸 Ekran Görüntüleri
+
+### 🔹 1. Microsoft Office Phishing
+![Microsoft Office Phishing](images/Outlook.png)
+
+### 🔹 2. Logs
+![Logs](images/Logs.png)
+
+### 🔹 3. Üretilen Alert
+![Alert ekranı](images/Alert.png)
+
+### 🔹 4. Kural
+![Kural](images/Rule.png)
+
+### 🔹 5. Policies
+![Policies](images/Policies.png)
+
+
+
 Sonuç
 
 Bu proje, phishing log ingestion + SOC rule + alert lifecycle adımlarını başarıyla gösterir.
 Junior SOC Analyst tarafında doğrudan işte yapılan bir senaryodur.
+
+
+[LinkedIn Profili — Kaan Arda Uzun](https://www.linkedin.com/in/uzunkaana/)
